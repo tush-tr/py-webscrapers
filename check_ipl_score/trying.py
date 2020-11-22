@@ -1,0 +1,2 @@
+import iplbytushar
+iplbytushar.score()
